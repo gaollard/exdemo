@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+    }
+    img {
+      display: block;
+    }
+    .box {
+      display: inline-block;
+      padding: 10px;
+      position: relative;
+      margin: 10px;
+    }
+    .box::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      border: 2px solid #cd0000;
+      animation: borderAround 1.5s infinite linear;
+    }
+    @keyframes borderAround {
+      0%, 100% {
+        clip: rect(0 148px 2px 0);
+      }
+      25% {
+        clip: rect(0 148px 116px 146px);
+      }
+      50% {
+        clip: rect(114px 148px 116px 0);
+      }
+      75% {
+        clip: rect(0 2px 116px 0);
+      }
+    }
+    .clip-box {
+      height: 2px;
+      background: red;
+      clip: rect(0 148px 116px 146px);
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <img src="https://ss0.baidu.com/73F1bjeh1BF3odCf/it/u=3475537728,2359058565&fm=85&s=0988BB5552D179CE4851C47A0300C07B" width="128" height="96">
+  </div>
+</body>
+</html>

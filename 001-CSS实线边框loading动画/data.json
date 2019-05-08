@@ -1,0 +1,84 @@
+{
+  "disseminatorUid": "",
+  "orderNum": "190506146500001",
+  "pid": "1465",
+  "platform": "2",
+  "timestamp": "1557281804000",
+  "token": "7133928097cababfba5826385ccda68c",
+  "version": "V1.0.0",
+  "sign": "23d59a81d533dbf0594f365671e6bb77e58125ee"
+}## 返回值: {
+  "_data": {
+    "orderStatus": "102",
+    "orderStatusName": "",
+    "orderStatusList": [
+      {
+        "orderStatus": "10",
+        "orderStatusName": "已下单"
+      },
+      {
+        "orderStatus": "40",
+        "orderStatusName": "待检测"
+      },
+      {
+        "orderStatus": "20",
+        "orderStatusName": "已发货"
+      },
+      {
+        "orderStatus": "101",
+        "orderStatusName": "待发送报告"
+      },
+      {
+        "orderStatus": "102",
+        "orderStatusName": "待用户反馈"
+      }
+    ],
+    "maxPrice": "206900",
+    "salesPrice": "0",
+    "guaranteePrice": "27400",
+    "productId": "30832",
+    "productName": "iPhone 7 Plus",
+    "IMEI": "355835080896285",
+    "pic": "https:\/\/s1.huishoubao.com\/img\/phone\/30832.jpg",
+    "orderNum": "190506146500001",
+    "orderTime": "2019-05-06 18:50:33",
+    "userName": "小苏",
+    "tel": "18707555980",
+    "province": "广东省",
+    "city": "深圳市",
+    "county": "南山区",
+    "address": "威新软件园8栋7楼",
+    "visitTime": "2019-05-07 09:00:00",
+    "servicePrice": "0",
+    "finalPrice": "0",
+    "code": "231468517751",
+    "payInfo": {
+      "payAccountName": "收款昵称",
+      "payWayName": "微信收款"
+    },
+    "recycleType": "1",
+    "recycleTypeName": "顺丰快递",
+    "reportInfo": {
+      "serialNo": "BM0101190507001907",
+      "categoryId": "1",
+      "categoryName": "手机",
+      "brandId": "2",
+      "brandName": "苹果",
+      "proId": "30832",
+      "proName": "iPhone 7 Plus",
+      "IMEI": "355835080896285",
+      "proSkuDesc": "",
+      "proDetectionResult": "",
+      "proDetectionInfo": "[{\"Aid\":\"83\",\" \":\"iCloud\\u5df2\\u6ce8\\u9500\",\"Pid\":\"81\",\"Pname\":\"iCloud\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"23\",\"Aname\":\"\\u6b63\\u5e38\\u5f00\\u673a\",\"Pid\":\"22\",\"Pname\":\"\\u5f00\\u673a\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"44\",\"Aname\":\"\\u91d1\\u8272\",\"Pid\":\"39\",\"Pname\":\"\\u989c\\u8272\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"18\",\"Aname\":\"\\u4fdd\\u4fee\\u4e00\\u4e2a\\u6708\\u4ee5\\u5185\\u6216\\u8fc7\\u4fdd\",\"Pid\":\"16\",\"Pname\":\"\\u4fdd\\u4fee\\u671f\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"35\",\"Aname\":\"32GB\",\"Pid\":\"32\",\"Pname\":\"\\u5b58\\u50a8\\u5bb9\\u91cf\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"78\",\"Aname\":\"\\u5916\\u89c2\\u8f7b\\u5fae\\u5212\\u75d5\\u6216\\u8f7b\\u5fae\\u78d5\\u78b0\",\"Pid\":\"76\",\"Pname\":\"\\u673a\\u8eab\\u5916\\u89c2\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"55\",\"Aname\":\"WIFI\\u6b63\\u5e38\",\"Pid\":\"54\",\"Pname\":\"WIFI\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"52\",\"Aname\":\"\\u6307\\u7eb9\\u529f\\u80fd\\u4e0d\\u6b63\\u5e38\",\"Pid\":\"51\",\"Pname\":\"\\u6307\\u7eb9\\u529f\\u80fd\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"14\",\"Aname\":\"\\u6c34\\u8d27\\u65e0\\u9501\",\"Pid\":\"11\",\"Pname\":\"\\u8d2d\\u4e70\\u6e20\\u9053\",\"Rid\":\"244\",\"Rname\":\"\\u7f8e\\u7248\"},{\"Aid\":\"65\",\"Aname\":\"\\u901a\\u8bdd\\u6b63\\u5e38\",\"Pid\":\"64\",\"Pname\":\"\\u901a\\u8bdd\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"74\",\"Aname\":\"\\u5c4f\\u5e55\\u6709\\u5212\\u75d5\",\"Pid\":\"72\",\"Pname\":\"\\u5c4f\\u5e55\\u5916\\u89c2\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"71\",\"Aname\":\"\\u663e\\u793a\\u6b63\\u5e38\",\"Pid\":\"67\",\"Pname\":\"\\u5c4f\\u5e55\\u663e\\u793a\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"61\",\"Aname\":\"\\u4fee\\u4e3b\\u677f\\\/\\u591a\\u6b21\\u7ef4\\u4fee\",\"Pid\":\"60\",\"Pname\":\"\\u7ef4\\u4fee\",\"Rid\":\"314\",\"Rname\":\"\\u7ef4\\u4fee\\u591a\\u6b21\"},{\"Aid\":\"59\",\"Aname\":\"\\u65e0\\u8fdb\\u6c34\",\"Pid\":\"57\",\"Pname\":\"\\u8fdb\\u6c34\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"21\",\"Aname\":\"\\u4e8c\\u624b\",\"Pid\":\"19\",\"Pname\":\"\\u6210\\u8272\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"224\",\"Aname\":\"\\u62cd\\u7167\\u6444\\u50cf\\u4e0d\\u6b63\\u5e38\",\"Pid\":\"222\",\"Pname\":\"\\u62cd\\u7167\\u6444\\u50cf\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"1689\",\"Aname\":\"A1661\\uff08\\u5168\\u7f51\\u901a\\uff09\",\"Pid\":\"918\",\"Pname\":\"\\u578b\\u53f7\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"3246\",\"Aname\":\"\\u89e6\\u6478\\u5c4f\\u672a\\u5931\\u7075\",\"Pid\":\"1461\",\"Pname\":\"\\u89e6\\u5c4f\\u529f\\u80fd\",\"Rid\":\"\",\"Rname\":\"\"},{\"Aid\":\"2170\",\"Aname\":\"\\u5c4f\\u5e55\\u66f4\\u6362\\\/\\u7ef4\\u4fee\",\"Pid\":\"2169\",\"Pname\":\"\\u5c4f\\u5e55\\u66f4\\u6362\",\"Rid\":\"\",\"Rname\":\"\"}]",
+      "goodsLevel": "{\"level\":\"40\",\"levelName\":\"J\",\"levelDesc\":\"不限-不限-完好\/显示色差\/色斑\/显示异常\/整屏维修-不限-主板大修\/进水（可能存在小功能和外配问题）\"}",
+      "status": "5",
+      "grade": "6",
+      "labellevel": "C",
+      "remark": ""
+    },
+    "salesType": "0",
+    "orderId": "7446047"
+  },
+  "_errCode": "0",
+  "_errStr": "成功"
+}
